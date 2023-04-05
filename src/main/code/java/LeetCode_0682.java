@@ -32,8 +32,6 @@ public class LeetCode_0682 {
         for (Integer integer : list) {
             total += integer;
         }
-
         return total;
-
     }
 }
